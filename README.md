@@ -10,4 +10,12 @@ I'm the GitHub Learning Lab bot and I'm here to help guide you in your journey t
 
 I'll meet you over there, can't wait to get started!
 
+---
+
+Thanks, [The GitHub Training Team](https://github.com/githubtraining), very much for your generous ___SUPPORT___!
+<br />
+[_Blog @ GitHub Pages_](https://dragancajic.github.io/github-pages-with-jekyll/)
+with 💝 by __Драган Ћајић__ 📚 <br />
+
+
 This repository is licensed under [MIT](../LICENSE) (c) 2019 GitHub, Inc.
