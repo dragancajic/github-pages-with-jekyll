@@ -18,4 +18,4 @@ Thanks, [The GitHub Training Team](https://github.com/githubtraining), very much
 with 💝 by __Драган Ћајић__ 📚 <br />
 
 
-This repository is licensed under [MIT](../LICENSE) (c) 2019 GitHub, Inc.
+This repository is licensed under [MIT](./LICENSE) (c) 2019 GitHub, Inc.
